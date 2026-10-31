@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: vighneshteli/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: vighneshteli/backend:590ea15eef8febfffa9af5744b09989d215fbef7
           ports:
             - containerPort: 5000
           env:
